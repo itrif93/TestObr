@@ -3,6 +3,9 @@
 	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
 		<Autofill>false</Autofill>
 	</AutoCommandBar>
+	<Events>
+		<Event name="OnOpen">ПриОткрытии</Event>
+	</Events>
 	<ChildItems>
 		<UsualGroup name="Группа1" id="9">
 			<Group>AlwaysHorizontal</Group>
@@ -33,7 +36,7 @@
 	<Attributes>
 		<Attribute name="Объект" id="1">
 			<Type>
-				<v8:Type>cfg:ExternalDataProcessorObject.ТестОбработки</v8:Type>
+				<v8:Type>cfg:ExternalDataProcessorObject.ТестОбработки2</v8:Type>
 			</Type>
 			<MainAttribute>true</MainAttribute>
 		</Attribute>

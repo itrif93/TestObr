@@ -6,21 +6,21 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>0eb724bf-616a-48ff-aa1c-a93b8d966251</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.ТестОбработки" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.ТестОбработки2" category="Object">
 				<xr:TypeId>ad62d1bc-2b9f-4d01-9b47-a7c73b13ad74</xr:TypeId>
 				<xr:ValueId>0980965d-76b7-4c93-bd06-959f5cb27cd7</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТестОбработки</Name>
+			<Name>ТестОбработки2</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Тест обработки</v8:content>
+					<v8:content>Тест обработки2</v8:content>
 				</v8:item>
 			</Synonym>
-			<Comment/>
-			<DefaultForm>ExternalDataProcessor.ТестОбработки.Form.Форма</DefaultForm>
+			<Comment>Dthcbz 0.01</Comment>
+			<DefaultForm>ExternalDataProcessor.ТестОбработки2.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
